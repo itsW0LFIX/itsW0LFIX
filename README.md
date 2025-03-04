@@ -18,12 +18,12 @@
     <li>🎉 Fun Fact: I <em>hate tomatoes</em>. 😁</li>
   </ul>
 </div>
-<!-- <div align="center">
-  <p>
+ <div align="center">
+ <p>
     <strong>Visitor Count</strong><br>
     <img src="https://profile-counter.glitch.me/maroiane2/count.svg" alt="Visitor Count" />
   </p>
-</div> -->
+</div>
 
 ---
 <details>
