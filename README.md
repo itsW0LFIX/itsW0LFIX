@@ -1,35 +1,25 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/devops-code-265b6a263/">
-    <img alt="LinkedIn Profile" width="30px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
-  </a>
-</div>
 
 ---
 
 <div>
 <h2>⚡️ A Few Quick Facts</h2>
-  <img width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsW0LFIX&layout=compact&theme=radical" alt="Top Languages" />
+<!--   <img width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsW0LFIX&layout=compact&theme=radical" alt="Top Languages" /> -->
+   <ul>I love building things for the web but also making it look great and accessible. I help others learn web development and web design through content on <a href="https://itswolfix-journal.web.app/" target="_blank">WOLFIX Journal</a></ul>
   <ul>
     <li>🧐 I'm currently working on <strong>web development</strong>.</li>
     <li>🍃 I'm currently learning <strong>full-stack development</strong>.</li>
-    <li>👨‍💻 Most of my projects are available on my <a href="https://itswolfix-journal.web.app/" target="_blank">portfolio website</a></li>
+    <li>👨‍💻 Most of my projects will be available on soon <a href="https://itswolfix-journal.web.app/" target="_blank">portfolio website</a></li>
     <li>📝 I am often active on <a href="https://discord.com/users/981675224795860994" target="_blank">Discord</a>
-    <li>📙 Check out my <a href="#">resume</a>.</li>
-    <li>🎉 Fun Fact: I <em>hate tomatoes</em>. 😁</li>
+
   </ul>
 </div>
- <div align="center">
- <p>
-    <strong>Visitor Count</strong><br>
-    <img src="https://profile-counter.glitch.me/maroiane2/count.svg" alt="Visitor Count" />
-  </p>
-</div>
+
+## 💖 Love
+
+- 📜 every language I learn
+- ☕️ Helping programmers
+- ⚡️ I forgot what else 😅
 
 ---
-<details>
-  <summary><strong>More info..</strong></summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsW0LFIX&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
-  </div>
-</details>
+
 
